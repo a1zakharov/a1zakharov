@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @a1zakharov
-- 👀 I’m interested in books and games)
+- 👀 I’m interested in finance and technology
 - 🌱 I’m currently learning python
 - 📫 How to reach me: telegram https://t.me/zakharovon
 
